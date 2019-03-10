@@ -1,0 +1,26 @@
+de:
+  Enquiry:
+    SINGULARNAME: 'Anfrage'
+    PLURALNAME: 'Anfragen'
+    db_FirstName: 'Vorname'
+    db_LastName: 'Nachname'
+    db_ArrivalDate: 'Anreisetag'
+    db_Flexibility: 'Ich bin flexibel im Reisezeitraum'
+    db_Flexibility_PleaseChoose: 'Bitte wählen Sie'
+    db_Flexibility_NotFlexible: 'Nicht Flexibel!'
+    db_Flexibility_3Days: '+/- 3 Tage'
+    db_Flexibility_5Days: '+/- 5 Tage'
+    db_Flexibility_7DaysAndMore: '+/- 7 und mehr Tage'
+    db_DepartureDate: 'Abreisetag'
+    db_ApartmentTypeID: 'Typ des Appartments'
+    db_ApartmentType: 'Typ des Appartments'
+#    db_ApartmentType_PleaseChoose: 'Bitte wählen Sie'
+#    db_ApartmentType_DoubleDeluxe2: 'Apartment Double Deluxe 2'
+#    db_ApartmentType_DoubleDeluxe4: 'Apartment Double Deluxe 4'
+#    db_ApartmentType_DoubleDeluxe4Plus: 'Apartment Double Deluxe 4+'
+#    db_ApartmentType_Finca14: 'Finca Apartment 14'
+    db_NumAdults: 'Anzahl der reisenden Erwachsenen'
+    db_NumChildren: 'Anzahl der reisenden Kinder'
+    db_Questions: 'Fragen an uns'
+  BootstrapAjaxForm:
+    ERROR: "Es gibt Fehler in Ihrer Anfrage. Bitte korrigieren Sie diese."

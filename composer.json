@@ -1,0 +1,27 @@
+{
+    "name": "guelden/ajaxforms",
+    "description": "Allows you to create ajaxified forms in SilverStripe that are compatible with Twitter Bootstrap.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "bootstrap", "forms", "ajax"],
+	"license": "BSD-3-Clause",
+    "authors": [
+    {
+        "name": "Jochen Guelden",
+        "email": "jochen@guelden.org"
+    }
+    ],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/bueckl/silverstripe-bootstrap-forms"
+		}
+	],
+    "require":
+    {
+        "silverstripe/framework": "3.*",
+        "silverstripe/cms": "3.*",
+        "unclecheese/bootstrap-forms": "dev-ajax",
+        "silverstripe-themes/simple": "*"
+    }
+    
+}
