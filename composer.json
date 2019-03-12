@@ -20,7 +20,7 @@
     {
         "silverstripe/framework": "3.*",
         "silverstripe/cms": "3.*",
-        "unclecheese/bootstrap-forms": "dev-ajax",
+        "unclecheese/bootstrap-forms": "dev-master",
         "silverstripe-themes/simple": "*",
         "silverstripe/recaptcha" : "2.0.3"
     }
