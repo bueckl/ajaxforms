@@ -1,6 +1,6 @@
 <?php
 class TestModelPage extends Page {
-	
+
 }
 
 class TestModelPage_Controller extends Page_Controller {
@@ -13,6 +13,8 @@ class TestModelPage_Controller extends Page_Controller {
 	
 	public function init(){
 		parent::init();
+
+
 		
 		Requirements::javascript('mysite/javascript/TestModelForm.js');
 		Requirements::javascript('mysite/javascript/ModalTestModelForm.js');
@@ -43,6 +45,8 @@ class TestModelPage_Controller extends Page_Controller {
 				color:#B94A48;
 			}			
 		");
+
+
 		
 		
 	}

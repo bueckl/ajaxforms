@@ -12,3 +12,5 @@ It's based on a modified version of bootstrap forms which is also included in th
 Other requirements:
 
 * i18nEnum
+
+To use recapture test model admin, wants to make a recapture.yml file inside the mysite/_config
